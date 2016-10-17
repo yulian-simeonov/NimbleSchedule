@@ -1,0 +1,193 @@
+/* 
+  Localizable.strings
+  NimbleSchedule
+
+  Created by Yosemite on 1/15/16.
+
+*/
+
+//---------------- Side Menu --------------------//
+Dashboard = "Dashboard test";
+Schedule = "Schedule";
+RequestsAndApprovals = "Requests & Approvals";
+ClockInOut = "Clock In / Clock Out";
+MyAvailability = "My Availability";
+Timesheets = "Timesheets";
+Messages = "Messages";
+Employees = "Employees";
+Locations = "Locations";
+
+//----------------- Login --------------------//
+UsernameEmail = "Username / Email";
+Password = "Password";
+SIGNIN = "SIGN IN";
+NeedHelpSigningIn = "Need help signing in?";
+OR = "OR";
+DontHaveAccount = "DON'T HAVE AN ACCOUNT? GET ONE >";
+SignInWithFingerprint = "SIGN IN WITH FINGERPRINT";
+
+//-------------- Dashboard ----------------//
+UpcomingShift = "UPCOMING SHIFT";
+ViewAll = "ViewAll";
+ClockIn = "Clock In";
+OPEN_SHIFTS = "OPEN SHIFTS";
+REQUESTS = "REQUESTS";
+APPROVALS = "APPROVALS";
+
+//--------- Schedule -------------//
+Day = "Day";
+Week = "Week";
+Month = "Month";
+MON = "MON";
+TUE = "TUE";
+THU = "THU";
+FRI = "FRI";
+SAT = "SAT";
+SUN = "SUN";
+AM = "AM";
+PM = "PM";
+PickUp = "Pick Up";
+
+// Schedule detail page
+REPEATS = "REPEATS";
+NOTES = "NOTES";
+more = "more";
+PickUpShift = "Pick Up Shift";
+
+// Schedule Edit page
+ShiftDetails = "Shift Details";
+ShiftLabel = "Shift Label";
+Starts = "Starts";
+Ends = "Ends";
+Repeats = "Repeats";
+Location = "Location";
+Position = "Position";
+Employee = "Employee";
+This_is_an_Open_Shift = "This is an Open Shift";
+ShiftNotes = "Shift Notes";
+CREATE_SHIFT = "CREATE SHIFT";
+SAVE_CHANGES = "SAVE CHANGES";
+CREATE_A_SHIFT = "CREATE A SHIFT";
+EDIT_THIS_SHIFT = "EDIT THIS SHIFT";
+
+// Shift Employee page
+ShiftEmployee = "Shift Employee";
+
+// Shift Timing page
+ShiftTiming = "Shift Timing";
+Done = "Done";
+SHIFT_TIMINGS = "SHIFT TIMINGS";
+Cancel = "Cancel";
+
+// Shift Repeat page
+REPEAT = "REPEAT";
+Does_not_repeat = "Does not repeat";
+Daily = "Daily";
+Weekly = "Weekly";
+Monthly = "Monthly";
+EveryWeekday = "Every Weekday";
+
+// Shift Location page
+ShiftLocation = "Shift Location";
+
+// Shift Position page
+ShiftPosition = "Shift Postion";
+
+// Shift Notes page
+ShiftNotes = "Shift Notes";
+SHIFT_NOTES = "SHIFT NOTES";
+Enter_your_shift_notes_here = "Enter your shift notes here...";
+
+// Shift Filter page
+ShiftFilter = "Shift Filter";
+FILTER_BY = "FILTER BY";
+Location = "Location";
+Position = "Position";
+RESET_FILTERS = "RESET FILTERS";
+APPLY = "APPLY";
+Location = "Location";
+Position = "Position";
+
+// ShiftFilter select location, select position pages
+SelectLocation = "Select Location";
+SelectPosition = "Select Position";
+CREATE_A_POSITION = "CREATE A POSITION";
+
+// Shift Create Position page
+CreatePosition = "Create Position";
+SelectColor = "Select a color";
+PositionTitle = "Position title";
+
+//----------------- Clock In / Clock Out --------------------//
+ClockIn = "Clock In";
+CLOCK_IN = "CLOCK IN";
+Clocking_in_as = "Clocking in as...";
+ClockOut = "Clock Out";
+Last_clock_in = "Last clock in";
+Total_time_spent = "Total time spent";
+Add_shift_notes = "Add shift notes...";
+CLOCK_OUT = "CLOCK OUT";
+SLIDE_TO_START_BREAK = "SLIDE TO START BREAK";
+
+//----------------- Requests & Approvals --------------------//
+Requests_Approvals = "Requests & Approvals";
+Create = "Create";
+Unread = "Unread";
+Activity = "Activity";
+REPOST = "REPOST";
+ACCEPT = "ACCEPT";
+DECLINE = "DECLINE";
+
+// Request Filter
+SELECT_ALL = "SElECT ALL";
+APPLY = "APPLY";
+Set_Filters = "Set Filters";
+SHOW_REQUESTS_OF_TYPE = "SHOW REQUESTS OF TYPE";
+// Create Request page
+CreateRequest = "Create Request";
+WHAT_TYPE_OF_REQUEST_IS_THIS = "WHAT TYPE OF REQUEST IS THIS?";
+Swap_Trade = "Swap / Trade";
+Shift_drop = "Shift drop";
+Cover_request = "Cover request";
+Time_off = "Time off";
+Pick_up_open_shift = "Pick up open shift";
+// Trade shift
+PICK_A_SHIFT_TO_TRADE = "PICK A SHIFT TO TRADE";
+SELECT_DESIRED_SHIFT = "SELECT DESIRED SHIFT";
+ENTER_A_MESSAGE = "ENTER A MESSAGE";
+Tap_to_pick_a_shift_from_your_schedule = "Tap to pick a shift from your schedule";
+Tap_to_pick_a_desired_shift = "Tap to pick a desired shift";
+YOUR_SHIFT = "YOUR SHIFT";
+Send_your_manager_a_short_message = "Send your manager a short message...";
+// Shift Drop
+PICK_A_SHIFT_TO_DROP = "PICK A SHIFT TO DROP";
+// Cover Request
+PICK_A_SHIFT = "PICK A SHIFT";
+Tap_to_select_employee = "Tap to select employee";
+WHO_DO_YOU_WANT_TO_COVER_FOR_YOU = "WHO DO YOU WANT TO COVER FOR YOU";
+// Time Off Request
+TIME_OFF_START_DATE = "TIME OFF - START DATE";
+TIME_OFF_END_DATE = "TIME OFF - END DATE";
+Tap_to_pick_a_start_date = "Tap to pick a start date";
+Tap_to_pick_a_end_date = "Tap to pick a end date";
+// Pickup open shift
+Tap_to_bring_up_open_shifts = "Tap to bring up open shifts";
+SELECT_AN_OPEN_SHIFT = "SELECT AN OPEN SHIFT";
+
+//------------------ My Availability --------------------//
+MyAvailability = "My Availability";
+Details = "Details";
+Custom = "Custom";
+I_am_available_on = "I am available on";
+All_Day = "All Day";
+From = "From";
+To = "To";
+SET_THIS_EVERYDAY = "SET THIS EVERYDAY";
+Time = "Time";
+Date = "Date";
+How_Often = "How Often?";
+Notes = "Notes...";
+ADD_AVAILABILITY = "ADD AVAILABILITY";
+Please_fill_all_date_fields = "Please fill all date fields";
+CustomAvailability = "Custom Availability";
+Title = "Title";

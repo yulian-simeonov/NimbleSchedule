@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  NimbleSchedule
+
+  Created by Yosemite on 1/15/16.
+
+*/
+
+// Side Menu
+Dashboard = "Dashboard test";
+Schedule = "Schedule";
+RequestsAndApprovals = "Requests & Approvals";
+ClockInOut = "Clock In / Clock Out";
+MyAvailability = "My Availability";
+Timesheets = "Timesheets";
+Messages = "Messages";
+Employees = "Employees";
+Locations = "Locations";
+
+// Login
+UsernameEmail = "Username / Email";
+Password = "Password";
+SIGNIN = "SIGN IN";
+NeedHelpSigningIn = "Need help signing in?";
+OR = "OR";
+DontHaveAccount = "DON'T HAVE AN ACCOUNT? GET ONE >";
+SignInWithFingerprint = "SIGN IN WITH FINGERPRINT";
+
+// Dashboard
+UpcomingShift = "UPCOMING SHIFT";
+ViewAll = "ViewAll";
+ClockIn = "Clock In";
