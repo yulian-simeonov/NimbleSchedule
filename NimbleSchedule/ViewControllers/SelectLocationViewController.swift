@@ -2,7 +2,7 @@
 //  SelectLocationViewController.swift
 //  NimbleSchedule
 //
-//  Created by Yosemite on 11/18/15.
+//  Created by Yulian Simeonov on 11/18/15.
 //  Copyright © 2015 YulianMobile. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  HoursOfOperationViewController.swift
 //  NimbleSchedule
 //
-//  Created by Yosemite on 12/23/15.
+//  Created by Yulian Simeonov on 12/23/15.
 //  Copyright © 2015 YulianMobile. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  WeekShiftTableViewCell.swift
 //  NimbleSchedule
 //
-//  Created by Yosemite on 11/3/15.
+//  Created by Yulian Simeonov on 11/3/15.
 //  Copyright © 2015 YulianMobile. All rights reserved.
 //
 

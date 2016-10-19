@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  NimbleSchedule
 //
-//  Created by Yosemite on 10/8/15.
+//  Created by Yulian Simeonov on 10/8/15.
 //  Copyright © 2015 YulianMobile. All rights reserved.
 //
 

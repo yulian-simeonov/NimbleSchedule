@@ -2,7 +2,7 @@
 //  NSHoursOperation.swift
 //  NimbleSchedule
 //
-//  Created by Yosemite on 12/24/15.
+//  Created by Yulian Simeonov on 12/24/15.
 //  Copyright © 2015 YulianMobile. All rights reserved.
 //
 

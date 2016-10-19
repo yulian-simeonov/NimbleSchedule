@@ -2,7 +2,7 @@
 //  TimesheetsFilterViewController.swift
 //  NimbleSchedule
 //
-//  Created by Yosemite on 1/4/16.
+//  Created by Yulian Simeonov on 1/4/16.
 //
 //
 

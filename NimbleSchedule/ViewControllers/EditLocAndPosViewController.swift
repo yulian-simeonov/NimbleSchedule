@@ -2,7 +2,7 @@
 //  EditLocAndPosViewController.swift
 //  NimbleSchedule
 //
-//  Created by Yosemite on 12/17/15.
+//  Created by Yulian Simeonov on 12/17/15.
 //  Copyright © 2015 YulianMobile. All rights reserved.
 //
 

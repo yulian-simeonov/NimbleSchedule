@@ -2,7 +2,7 @@
 //  Include.h
 //  NimbleSchedule
 //
-//  Created by Yosemite on 10/9/15.
+//  Created by Yulian Simeonov on 10/9/15.
 //  Copyright © 2015 YulianMobile. All rights reserved.
 //
 
